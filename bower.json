@@ -1,0 +1,43 @@
+{
+  "name": "ui-form",
+  "version": "0.3.1",
+  "description": "Angular and Bootstrap form and form elements with all the bells and whistles.",
+  "keywords": [
+    "form",
+    "forms",
+    "form directives",
+    "validation",
+    "angular",
+    "angular.js",
+    "bootsrap",
+    "bootstrap forms",
+    "bootstrap form controls",
+    "bootstrap controls"
+  ],
+  "license": "MIT",
+  "main": [
+    "dist/uiForm.js",
+    "dist/ui-form.css",
+    "dist/validationMessages.bundle.json"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.x",
+    "bootstrap": "3.3.4",
+    "angular-bootstrap": "1.1.1"
+  },
+  "homepage": "https://github.com/kemapak/ui-form",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kemapak/ui-form.git"
+  },
+  "authors": [
+    { "name": "Kem Apak", "email": "kem@softwarenotes.net", "homepage": "http://www.softwarenotes.net" }
+  ]
+}
