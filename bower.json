@@ -32,10 +32,10 @@
     "bootstrap": "3.3.4",
     "angular-bootstrap": "1.1.1"
   },
-  "homepage": "https://github.com/kemapak/ui-form",
+  "homepage": "https://github.com/edavidso-informatica/ui-form",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kemapak/ui-form.git"
+    "url": "https://github.com/edavidso-informatica/ui-form.git"
   },
   "authors": [
     { "name": "Kem Apak", "email": "kem@softwarenotes.net", "homepage": "http://www.softwarenotes.net" }
